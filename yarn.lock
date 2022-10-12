@@ -5282,12 +5282,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@tailwindcss/line-clamp@npm:0.4.0":
-  version: 0.4.0
-  resolution: "@tailwindcss/line-clamp@npm:0.4.0"
+"@tailwindcss/line-clamp@npm:0.4.2":
+  version: 0.4.2
+  resolution: "@tailwindcss/line-clamp@npm:0.4.2"
   peerDependencies:
     tailwindcss: ">=2.0.0 || >=3.0.0 || >=3.0.0-alpha.1"
-  checksum: d2ac7483bf3e56995736d6c78e456a4776558fe58f26beec105ae9a70becc95f47149e9e668ac5adc89cae36dafe0c611993fa547e03e00bb35800920e177093
+  checksum: 09ba5fb442e96d38553869bbe80875c81917c6aa5374b0fc61b62420e38bb61b62a90fc38e13a8f746a73979d575e06c30802a18abcd7a14e7b298e3331d6582
   languageName: node
   linkType: hard
 
@@ -23241,7 +23241,7 @@ __metadata:
     "@redwoodjs/web": 3.2.0
     "@tailwindcss/aspect-ratio": 0.4.0
     "@tailwindcss/forms": 0.5.2
-    "@tailwindcss/line-clamp": 0.4.0
+    "@tailwindcss/line-clamp": 0.4.2
     "@tailwindcss/typography": 0.5.2
     autoprefixer: 10.4.7
     postcss: 8.4.14
