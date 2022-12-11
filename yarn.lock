@@ -18863,14 +18863,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"postcss@npm:8.4.14, postcss@npm:^8.2.15, postcss@npm:^8.4.12, postcss@npm:^8.4.13, postcss@npm:^8.4.7":
-  version: 8.4.14
-  resolution: "postcss@npm:8.4.14"
+"postcss@npm:8.4.20, postcss@npm:^8.2.15, postcss@npm:^8.4.12, postcss@npm:^8.4.13, postcss@npm:^8.4.7":
+  version: 8.4.20
+  resolution: "postcss@npm:8.4.20"
   dependencies:
     nanoid: ^3.3.4
     picocolors: ^1.0.0
     source-map-js: ^1.0.2
-  checksum: 2a4cfa28e2f1bfd358313501f7771bd596e494487c7b735c492e2f8b1faf493d24fcb43e2e6ad825863fc65a77abb949ca8f228602ae46a022f02dc812c4ac8b
+  checksum: 12b0b65d51a69673c4c5a5270c45a1c8b303601b17b7f373ce4319e900248e9c8923367616c5c5f6df39411e5af5a7df772bdf889959a52b58c53fc715d624dd
   languageName: node
   linkType: hard
 
@@ -23244,7 +23244,7 @@ __metadata:
     "@tailwindcss/line-clamp": 0.4.0
     "@tailwindcss/typography": 0.5.2
     autoprefixer: 10.4.7
-    postcss: 8.4.14
+    postcss: 8.4.20
     postcss-loader: 7.0.0
     prop-types: 15.8.1
     react: 17.0.2
